@@ -3,7 +3,7 @@
 这是学习的天地，也是技术的聚集地，记录了我一路前行的心得，仅以此文分享给所有在微服务架构之路上学习和使用的人。
 
 * [microServices](https://github.com/KeKe-Li/microServices)
-* [使用promethues和grafana监控](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter01/01.0.md)
+* [promethues和grafana监控](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter01/01.0.md)
 
 
 
