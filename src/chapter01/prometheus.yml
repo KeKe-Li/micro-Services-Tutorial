@@ -1,0 +1,14 @@
+global:
+    scrape_interval: 5s       # 默认抓取间隔, 5秒向目标抓取一次数据
+    external_labels:          # 和外部系统交互时每一条从本机获取的数据都会打上如下标签
+        monitor: 'my-monitor'
+scrape_configs:               # 这里是抓去 promethues 自身的配置
+    - job_name: 'prometheus'  # job name 会以标签`job=<job_name>`添加到每一条由该配置抓去到的时序数据
+      static_configs:
+          - targets: ['localhost:9090']
+    - job_name: 'node-resources'
+      scrape_interval: 10s     # 覆盖默认抓取间隔
+      static_configs:          #target 可以使用 "," 分割,添加多个目标
+          - targets: ['node-exporter:9100']
+rule_files:
+  - 'alert.rules'
