@@ -9,11 +9,7 @@
 
 ### golang编程
 
-觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信,加入我们的交流群一起一起交流goalng技术！
-
-<p style="left">
-  <img src="https://github.com/KeKe-Li/book/blob/master/images/1.jpg" width="260">
-</p>
+觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信**Sen0676**,加入我们的交流群一起一起交流goalng技术！
 
 ### License
 This is free software distributed under the terms of the MIT license
