@@ -4,8 +4,9 @@
 
 * [microServices](https://github.com/KeKe-Li/microServices)
 * [promethues和grafana监控](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter01/01.0.md)
-
-
+* [promethues命令解析]()
+* [redis命令解析]()
+* [harbor搭建docker私有仓库]()
 
 ### golang编程
 
