@@ -1,0 +1,34 @@
+global:
+  scrape_interval:     30s # Set the scrape interval to every 15 seconds. Default is every 1 minute.
+  evaluation_interval: 30s # Evaluate rules every 15 seconds. The default is every 1 minute.
+#alerting:
+#  alertmanagers:
+#  - static_configs:
+#    - targets:
+#      - altermanager:9093   #设置altermanager的地址，后文会写到安装altermanager
+#rule_files:
+#  - "first_rules.yml"   # 设置报警规则
+#  - "second_rules.yml"
+scrape_configs:
+  # The job name is added as a label `job=<job_name>` to any timeseries scraped from this config.
+  - job_name: 'prometheus'
+    # metrics_path defaults to '/metrics'
+    # scheme defaults to 'http'.
+    static_configs:
+      - targets: ['52.76.11.148:9090']   #这个自带的默认监控prometheus所在机器的prometheus状态
+#  - job_name: 'localhost'
+#   static_configs:
+#      - targets: ['192.168.98.73:9101']   #这部分是监控机器的状态，需要在机器节点启动[node_exporter](https://github.com/prometheus/node_exporter),需要监控机器的可以移步查看
+#       labels:
+#         instance: localhost
+  - job_name: "linux"      # 自己定义的监控的job_name
+    static_configs:
+      - targets: ['52.76.11.148:9091']   # 指向pushgateway.  我在每台机器上使用的是推的方式到pushgateway,所以采取了此种方式。
+        labels:
+          instance: linux    #新添加的标签，可以自定义
+    scrape_interval: 60s
+  - job_name: request_processing_seconds
+    static_configs:
+      - targets: ['120.92.138.54:8000']
+        labels:
+          instance: request_processing_seconds
