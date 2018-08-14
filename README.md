@@ -13,7 +13,7 @@
 * [promethues命令解析](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter02/01.0.md)
 * [redis命令解析](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter03/01.0.md)
 * [harbor搭建docker私有仓库](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter04/01.0.md)
-* [Azkaban任务调度系统搭建](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter05/01.0.md)
+* [Azkaban任务调度系统搭建和应用](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter05/01.0.md)
 * [Ceph分布式文件共享方案](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter06/01.0.md)
 
 #### golang编程
