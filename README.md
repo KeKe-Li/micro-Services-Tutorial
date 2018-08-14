@@ -13,6 +13,8 @@
 * [promethues命令解析]()
 * [redis命令解析]()
 * [harbor搭建docker私有仓库]()
+* [Azkaban任务调度系统搭建]()
+* [Ceph分布式文件共享方案]()
 
 #### golang编程
 
