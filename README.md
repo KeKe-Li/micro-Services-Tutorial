@@ -16,6 +16,7 @@
 * [Azkaban任务调度系统搭建和应用](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter05/01.0.md)
 * [Ceph分布式文件共享方案](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter06/01.0.md)
 * [分布式系统学习总结](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter07/01.0.md)
+* [Mysql](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter08/01.0.md)
 
 #### golang编程
 
