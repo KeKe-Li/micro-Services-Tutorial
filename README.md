@@ -27,8 +27,6 @@
 <img width="300"  align="center" src="src/images/13.jpg" />
 </p>
 
-</p>
-
 
 #### License
 This is free software distributed under the terms of the MIT license
