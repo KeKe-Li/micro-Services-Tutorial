@@ -9,16 +9,16 @@
 </p>
 
 
-* [microServices](https://github.com/KeKe-Li/microServices)
-* [promethues和grafana监控](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter01/01.0.md)
-* [promethues命令解析](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter02/01.0.md)
-* [redis命令解析](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter03/01.0.md)
-* [harbor搭建docker私有仓库](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter04/01.0.md)
+* [MicroServices](https://github.com/KeKe-Li/microServices)
+* [Promethues和grafana监控](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter01/01.0.md)
+* [Promethues命令解析](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter02/01.0.md)
+* [Redis命令解析](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter03/01.0.md)
+* [Harbor搭建docker私有仓库](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter04/01.0.md)
 * [Azkaban任务调度系统搭建和应用](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter05/01.0.md)
 * [Ceph分布式文件共享方案](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter06/01.0.md)
 * [分布式系统学习总结](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter07/01.0.md)
 * [Mysql操作命令总结](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter08/01.0.md)
-
+* [分布式中使用Redis](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter09/01.0.md)
 #### golang编程
 
 觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信,也可以加入我们的交流群一起交流技术！
