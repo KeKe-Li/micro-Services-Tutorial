@@ -18,7 +18,7 @@
 * [Ceph分布式文件共享方案](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter06/01.0.md)
 * [分布式系统学习总结](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter07/01.0.md)
 * [Mysql操作命令总结](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter08/01.0.md)
-* [常见安全算法(MD5、SHA1、Base64等)](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter09/01.0.md)
+* [常见安全算法](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter09/01.0.md)
 
 #### golang编程
 
