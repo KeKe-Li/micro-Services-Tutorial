@@ -11,7 +11,7 @@
 
 * [MicroServices](https://github.com/KeKe-Li/microServices)
 * [Promethues和grafana监控](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter01/01.0.md)
-* [Promethues命令解析](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter02/01.0.md)
+* [kong网关](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter02/01.0.md)
 * [Redis命令解析](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter03/01.0.md)
 * [Harbor搭建docker私有仓库](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter04/01.0.md)
 * [Azkaban任务调度系统搭建和应用](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter05/01.0.md)
@@ -19,6 +19,8 @@
 * [分布式系统学习总结](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter07/01.0.md)
 * [Mysql操作命令总结](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter08/01.0.md)
 * [常见安全算法](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter09/01.0.md)
+
+
 
 #### golang编程
 
