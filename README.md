@@ -8,7 +8,6 @@
 <img width="100%" align="center" src="src/images/3.jpg" />
 </p>
 
-
 * [MicroServices](https://github.com/KeKe-Li/microServices)
 * [Promethues和grafana监控](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter01/01.0.md)
 * [kong网关](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter02/01.0.md)
@@ -20,8 +19,7 @@
 * [Mysql操作命令总结](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter08/01.0.md)
 * [常见安全算法](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter09/01.0.md)
 * [Docker搭建MySQL服务](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter10/01.0.md)
-
-
+* [Consul](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter11/01.0.md)
 
 #### golang编程
 
