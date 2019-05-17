@@ -22,9 +22,9 @@ services:
     ports:
       - '9100:9100'
   grafana:
-    image: grafana/grafana:4.6.2
+    image: Grafana/Grafana:4.6.2
     volumes:
-        - grafana_data:/var/lib/grafana
+        - grafana_data:/var/lib/Grafana
     environment:
       - GF_SECURITY_ADMIN_PASSWORD=pass
     depends_on:
