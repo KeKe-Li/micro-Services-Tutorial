@@ -20,7 +20,7 @@ services:
       - /:/rootfs
 
   grafana:
-      image: grafana/grafana
+      image: Grafana/Grafana
       ports:
         - 3000:3000
       environment:
